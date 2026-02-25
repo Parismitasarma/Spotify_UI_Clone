@@ -1,33 +1,39 @@
 # Spotify Clone – Music Streaming Web Application
 This is the clone of Spotify App.
 
-Project Overview
+---
+
+# Project Overview
 
 This project is a clone website of the popular music application Spotify. It provides a demo representation of Spotify’s visuals, graphics, and system flow, helping users understand how a modern music streaming interface works.
 
 The main purpose of developing this mini project is to:
 
-Understand the working of existing music streaming systems
+- Understand the working of existing music streaming systems
 
-Analyze the design and functional flow
+- Analyze the design and functional flow
 
-Identify possible loopholes or limitations
+- Identify possible loopholes or limitations
 
-Explore areas where future enhancements can be applied
+- Explore areas where future enhancements can be applied
 
 This project focuses mainly on frontend development and UI behavior.
 
-Features
+---
 
- Spotify-like user interface
+# Features
 
- Music player layout (play, pause, next, previous)
+ - Spotify-like user interface
 
- Playlist and song list design
+-  Music player layout (play, pause, next, previous)
 
- Clean visuals and graphics inspired by Spotify
+-  Playlist and song list design
 
- Responsive web layout (basic)
+-  Clean visuals and graphics inspired by Spotify
+
+-  Responsive web layout (basic)
+
+---
  
 
 Technologies Used
