@@ -38,11 +38,11 @@ This project focuses mainly on frontend development and UI behavior.
 
 # Technologies Used
 
-- HTML – Structure of the web application
+- **HTML** – Structure of the web application
 
-- CSS – Styling and layout
+- **CSS** – Styling and layout
 
-- JavaScript – Functionality and interactivity
+- **JavaScript** – Functionality and interactivity
 
 ---
 
@@ -51,7 +51,7 @@ This project focuses mainly on frontend development and UI behavior.
 
 - To gain hands-on experience in web development
 
-- To understand UI/UX design principles
+- To understand **UI/UX** design principles
 
 - To analyze the system flow of a music streaming application
 
@@ -76,11 +76,14 @@ This project focuses mainly on frontend development and UI behavior.
 # Disclaimer
 
 This project is created only for educational purposes.
+
 All design inspirations belong to Spotify. No copyright infringement is intended.
 
 ---
 # Author
 
 Parismita Sarma
+
 MCA Graduate
+
 Front-End & Web Development Enthusiast
