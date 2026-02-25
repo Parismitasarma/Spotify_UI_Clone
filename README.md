@@ -36,48 +36,51 @@ This project focuses mainly on frontend development and UI behavior.
 ---
  
 
-Technologies Used
+# Technologies Used
 
-HTML – Structure of the web application
+- HTML – Structure of the web application
 
-CSS – Styling and layout
+- CSS – Styling and layout
 
-JavaScript – Functionality and interactivity
+- JavaScript – Functionality and interactivity
 
-
-Objective of the Project
-
-To gain hands-on experience in web development
-
-To understand UI/UX design principles
-
-To analyze the system flow of a music streaming application
-
-To enhance JavaScript and frontend skills
+---
 
 
+# Objective of the Project
 
-Future Enhancements
+- To gain hands-on experience in web development
 
-User authentication (Login / Signup)
+- To understand UI/UX design principles
 
-Backend integration
+- To analyze the system flow of a music streaming application
 
-Real-time music streaming
+- To enhance JavaScript and frontend skills
 
-Playlist creation & management
+---
 
-Search functionality
+# Future Enhancements
 
-Mobile-friendly improvements
+- User authentication (Login / Signup)
 
-Disclaimer
+- Backend integration
+
+- Real-time music streaming
+
+- Playlist creation & management
+
+- Search functionality
+
+- Mobile-friendly improvements
+
+# Disclaimer
 
 This project is created only for educational purposes.
 All design inspirations belong to Spotify. No copyright infringement is intended.
 
-Author
+---
+# Author
 
 Parismita Sarma
 MCA Graduate
-Front end & Web Development Enthusiast
+Front-End & Web Development Enthusiast
